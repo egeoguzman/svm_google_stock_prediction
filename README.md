@@ -1,2 +1,3 @@
-# svm_google_stock_prediction
-Predicting Google stock prices with ML Support Vector Regression Algorithms
+# svm_tesla_stock_prediction
+  Predicting TESLA stock prices with ML Support Vector Regression Algorithms.
+  
